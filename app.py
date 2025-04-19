@@ -9,7 +9,7 @@ import sqlite3
 st.set_page_config(page_title="AI-Augmented Self-Mapping", layout="centered")
 
 # Add custom logo and tagline
-st.image("Logo-Hello AI.jpg", width=150)
+st.image("logo.jpg", width=150)
 st.markdown("<h1 style='font-size: 24px;'>AI for Life.<br>One Byte at a Time.</h1>", unsafe_allow_html=True)
 
 # --- Landing Page Content ---
