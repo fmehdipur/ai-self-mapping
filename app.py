@@ -160,4 +160,4 @@ We’re seeking partners for research, co-development, and pilot implementation.
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/farhad-mehdipour-111245b/)
 """)
 
-st.success("Prototype version — with landing content, session tags, analytics, and insight export")
+st.success("Prototype version")
