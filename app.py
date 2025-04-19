@@ -156,7 +156,7 @@ st.markdown("""
 ### 🤝 Let’s Collaborate
 We’re seeking partners for research, co-development, and pilot implementation.
 
-📩 hello@yourdomain.com  
+📩 info@helloai.com  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/farhad-mehdipour-111245b/)
 """)
 
