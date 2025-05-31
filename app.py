@@ -6,7 +6,7 @@ import json
 from fpdf import FPDF
 import sqlite3
 
-st.set_page_config(page_title="AI-Augmented Self-Mapping", layout="centered")
+st.set_page_config(page_title="Echo: AI-Augmented Self-Mapping", layout="centered")
 
 # Add custom logo and tagline
 st.image("logo.jpg", width=150)
@@ -14,11 +14,11 @@ st.markdown("<h1 style='font-size: 24px;'>AI for Life.<br>One Byte at a Time.</h
 
 # --- Landing Page Content ---
 st.markdown("""
-## 🧠 AI-Augmented Self-Mapping
+## 🧠 Echo - AI-Augmented Self-Mapping
 Helping you reflect, adapt, and lead — one byte at a time.
 
 ### 🔍 What It Is
-AI-Augmented Self-Mapping (AI-SM) is a personal insight tool that helps individuals and teams understand:
+Echo is a personal insight tool that helps individuals and teams understand:
 - How they think
 - How they decide
 - How they grow over time
